@@ -461,9 +461,7 @@ button:focus{
     Story
 -------------------------------------------------------------------*/
 
-.story-box{
-	padding: 70px 0px;
-}
+
 
 .align-left {
     text-align: left;
@@ -668,9 +666,7 @@ button:focus{
     Events
 -------------------------------------------------------------------*/
 
-.events-box{
-	padding: 70px 0px;
-}
+
 .event-inner{
 	margin-bottom: 30px;
 	border: 10px solid #fff;
